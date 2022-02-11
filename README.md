@@ -6,6 +6,7 @@
 </p>
 
 <br/>
+<br/>
 
 - 🏠 I’m currently studying at Edu : Code-State.
 - ⚙ I usually use `.js`, `.html`, `.css`, `.psd`
