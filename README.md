@@ -23,6 +23,9 @@
       <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
     </a>
     <a href="#">
+      <img src="https://user-images.githubusercontent.com/80025242/153629384-ff837734-138a-4a55-8358-b307c02f3dfa.png" width="40"/>
+    </a>
+    <a href="#">
       <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/>
     </a>
   </div>
