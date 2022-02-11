@@ -8,7 +8,6 @@
 </p>
 
 <br/>
-<br/>
   
   <div>
     <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" title="JavaScript">
@@ -22,6 +21,9 @@
     </a>
     <a href="https://www.w3schools.com/cssref/">
       <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
+    </a>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/>
     </a>
   </div>
 
