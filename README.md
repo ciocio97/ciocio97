@@ -16,6 +16,9 @@
     <a href="https://ko.reactjs.org/docs/getting-started.html">
       <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/>
     </a>
+    <a href="https://vuejs.org/guide/introduction.html">
+      <img src="https://img.icons8.com/color/480/undefined/vue-js.png" width="43"/>
+    </a>
     <a href="https://html.spec.whatwg.org/">
       <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
     </a>
