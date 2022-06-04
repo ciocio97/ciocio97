@@ -16,16 +16,16 @@
     <a href="https://ko.reactjs.org/docs/getting-started.html">
       <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/>
     </a>
-    <a href="#">
+    <a href="https://html.spec.whatwg.org/">
       <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/>
     </a>
-    <a href="https://www.w3schools.com/cssref/">
+    <a href="https://devdocs.io/css/">
       <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/>
     </a>
-    <a href="#">
+    <a href="https://styled-components.com/docs">
       <img src="https://user-images.githubusercontent.com/80025242/153629384-ff837734-138a-4a55-8358-b307c02f3dfa.png" width="40"/>
     </a>
-    <a href="#">
+    <a href="https://www.typescriptlang.org/docs/">
       <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40"/>
     </a>
   </div>
