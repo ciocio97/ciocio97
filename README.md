@@ -40,8 +40,8 @@
   
 </div>
 
-- 🏠 I’m currently studying at Home : 🏠
-- 🌱 I usually use `.js`, `.html`, `.css`
+- 🏠 I’m currently studying at Library : 🏢 & 👩🏻‍💻
+- 🌱 I usually use `.js`, `.html`, `.css` (feat. `Vue` & `React`)
 - 💬 Ping me about <b>design</b>, <b>development</b>, <b>creative thinking</b>
 - 📫 How to reach me: ciociolee97@gmail.com
-- ⚡ Fun fact: I love Cheese Ball 🧀
+- ⚡ Fun fact: I love Chicken breast 💪🏻
