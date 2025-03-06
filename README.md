@@ -44,4 +44,4 @@
 - 🌱 I usually use `.js`, `.html`, `.css` (feat. `Vue` & `React`)
 - 💬 Ping me about <b>design</b>, <b>development</b>, <b>creative thinking</b>
 - 📫 How to reach me: ciociolee97@gmail.com
-- ⚡ Fun fact: I love chicken breast 💪🏻
+- ⚡ Fun fact: I love jelly 🍑🍎🫐
